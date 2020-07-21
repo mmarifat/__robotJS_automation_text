@@ -1,4 +1,4 @@
-# Auto Text Parse (robotjs)
+# Auto Text Paste (robotjs)
 
 ## Install the dependencies
 ```bash
