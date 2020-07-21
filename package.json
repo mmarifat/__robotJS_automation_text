@@ -1,0 +1,19 @@
+{
+  "name": "auto-text-paste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Robot.ts",
+  "scripts": {
+    "start": "ts-node-dev --transpile-only --no-notify src/Robot.ts",
+    "build": "tsc --project tsconfig.compile.json"
+  },
+  "author": "mmarifat <mma.rifat66@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
