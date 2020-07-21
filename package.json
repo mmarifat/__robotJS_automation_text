@@ -5,7 +5,7 @@
   "main": "src/Robot.ts",
   "scripts": {
     "start": "ts-node-dev --transpile-only src/Robot.ts",
-    "build": "tsc --project tsconfig.compile.json"
+    "build": "tsc --project tsconfig.compile.json "
   },
   "author": "mmarifat <mma.rifat66@gmail.com>",
   "license": "ISC",
