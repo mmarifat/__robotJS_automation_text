@@ -7,13 +7,13 @@ or
 yarn install (recommended)
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Start
 ```bash
 ts-node-dev --transpile-only --no-notify Robot.ts
 ```
 
 
-### Build the app for production
+### Build 
 ```bash
 tsc --project tsconfig.compile.json
 ```
