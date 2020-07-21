@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/Robot.ts",
   "scripts": {
-    "start": "ts-node-dev --transpile-only --no-notify src/Robot.ts",
+    "start": "ts-node-dev --transpile-only src/Robot.ts",
     "build": "tsc --project tsconfig.compile.json"
   },
   "author": "mmarifat <mma.rifat66@gmail.com>",
