@@ -9,12 +9,12 @@ yarn install (recommended)
 
 ### Start
 ```bash
-ts-node-dev --transpile-only --no-notify Robot.ts
+ts-node-dev --transpile-only src/Robot.ts
 ```
 
 ### Notice
 ```bash
-You will have 5 seconds to select where to put comment after starting (Change it in Robot.ts you need more time)
+You will have 5 seconds to select where to put texts after starting (Change it in Robot.ts you need more time)
 ```
 
 
